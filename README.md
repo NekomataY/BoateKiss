@@ -1,7 +1,7 @@
 # Título do Projeto
 
 
-![Capa do Projeto](https://picsum.photos/900/280)
+![Capa do Projeto](https://picsum.photos/910/280)
 
 # Sobre o Projeto
 

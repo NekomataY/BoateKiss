@@ -1,7 +1,7 @@
 # Título do Projeto
 
 
-![Capa do Projeto]([https://picsum.photos/850/280](https://fastly.picsum.photos/id/255/850/280.jpg?hmac=XBwMGvS-hvg6bvf_xCgyW_lZWUERUUZwo6-xwqgoavc))
+![Capa do Projeto](https://picsum.photos/850/280)
 
 # Sobre o Projeto
 

@@ -30,11 +30,8 @@ Este trabalho contem informações sobre o numero de vitimas fatais do desastre 
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Pandas.js](https://www.npmjs.com/package/pandas-js)
+- [Jupyter](https://jupyter.org)
 
 # Contribuição
 
